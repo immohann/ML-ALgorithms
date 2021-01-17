@@ -6,16 +6,16 @@ Implementing traditional ML algotithms with detialed notes
 
 
 ## Logistic Regression 
-- Notebook :  
-- Blog : 
+- Notebook :  [Logistic Regression](https://github.com/immohann/ML-ALgorithms/blob/main/Logistic_Regression.ipynb)
+- Blog : [Logistic Regression](#real-cool-heading)
 
 
 ## Decision Forest 
-- Notebook :  
-- Blog : 
+- Notebook :  [Logistic Regression](https://github.com/immohann/ML-ALgorithms/blob/main/Decision_Forest.ipynb)
+- Blog : [Logistic Regression](#real-cool-heading)
 
 
 ## Support Vector Machines 
-- Notebook :  
-- Blog : 
+- Notebook : [Logistic Regression](https://github.com/immohann/ML-ALgorithms/blob/main/SVM%20(1).ipynb)
+- Blog : [Logistic Regression](#real-cool-heading)
 
