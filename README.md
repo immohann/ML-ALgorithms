@@ -1,5 +1,5 @@
 # ML-ALgorithms
-Implementing traditional ML algotithms with detialed notes
+Implementing traditional ML algotithms with detialed explaination
 
 
 # Read in-depth about the algorithms and its implementation in the following blogs:
