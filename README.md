@@ -19,3 +19,7 @@ Implementing traditional ML algotithms with detialed explaination.
 - Notebook : [Logistic Regression](https://github.com/immohann/ML-ALgorithms/blob/main/SVM%20(1).ipynb)
 - Blog : [Logistic Regression](https://immohann.medium.com/support-vector-machine-explained-and-implemented-bda7f22126a)
 
+
+## Naive Bayes
+- Notebook : [Naive Bayes](#)
+- Blog : [Naive Bayes](#)
