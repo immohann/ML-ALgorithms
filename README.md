@@ -21,5 +21,5 @@ Implementing traditional ML algotithms with detialed explaination.
 
 
 ## Naive Bayes
-- Notebook : [Naive Bayes](#)
+- Notebook : [Naive Bayes](https://github.com/immohann/ML-ALgorithms/blob/main/Naive_Bayes.ipynb)
 - Blog : [Naive Bayes](#)
