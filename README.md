@@ -23,3 +23,8 @@ Implementing traditional ML algotithms with detialed explaination.
 ## Naive Bayes
 - Notebook : [Naive Bayes](https://github.com/immohann/ML-ALgorithms/blob/main/Naive_Bayes.ipynb)
 - Blog : [Naive Bayes](https://immohann.medium.com/naive-bayes-explained-and-implemented-8dbd16c5ee47)
+
+
+## K-means
+- Notebook : [Naive Bayes](https://github.com/immohann/ML-ALgorithms/blob/main/k_means.ipynb)
+- Blog : [Naive Bayes](https://immohann.medium.com/k-means-clustering-algorithm-explained-and-implemented-307161adcc61)
